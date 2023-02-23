@@ -1,0 +1,29 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "layer": [
+    {
+      "name": "piece",
+      "value": 1
+    },
+    {
+      "name": "bubble",
+      "value": 2
+    },
+    {
+      "name": "light effect",
+      "value": 4
+    },
+    {
+      "name": "ground",
+      "value": 8
+    }
+  ]
+}
